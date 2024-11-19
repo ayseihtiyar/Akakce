@@ -14,7 +14,7 @@ The Akakce Project is a Selenium-based test automation project aimed at enhancin
 
 ## Installation and Setup
 
-1. **Environment**: Ensure Java JDK 11+ is installed and configured in your IDE.
+1. **Environment**: Ensure Java JDK 21 is installed and configured in your IDE.
 
 2. **Dependencies**: Use Maven or Gradle to manage dependencies. Add Selenium WebDriver and JUnit to your project:
    - **Selenium**: Add to `pom.xml` or `build.gradle`.
