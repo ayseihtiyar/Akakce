@@ -3,7 +3,7 @@ import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.Select;
 
-public class UserAccountCreation extends BaseDriver {
+public class UserAccountCreationTest extends BaseDriver {
 
     @Test
     public void Positive(){
