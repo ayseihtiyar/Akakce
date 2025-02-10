@@ -22,4 +22,9 @@ public class BaseDriver {
         MyFunction.Wait(3);
         driver.quit();
     }
+
+    public static final String name = "Test";
+    public static final String surname = "Account";
+    public static final String email = "payicad196@perceint.com";
+    public static final String password = "Test007+";
 }
